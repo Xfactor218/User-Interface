@@ -68,37 +68,31 @@ h1, h2, h3, h4, h5 {
 	width: 800px;
 	margin: auto;
 	border: 1px solid red;
-	padding:  
+ 
 }
-.inn{
-	font-family: 'Bangers', cursive;
-    letter-spacing: 1px;
-    margin-bottom: 15px;
-	margin-top: 15px;
-	
+div.Par{
+    
 }
 header nav {
-	/* display: inline-block; */
-	/* margin-top: 30px; */
-	word-spacing: 3px;
+	display: inline-block;
+	margin-top: 30px;
+	/* word-spacing: 3px; */
 	color: gray; 
-	border: 2px solid green;
+}
+h1{
+    
 }
 header .logo{
-	display: flex;
-	margin-left: 50px;
-	border: 2px solid indianred
+    margin-left: 30px; 
 }
 header nav a{
 	/* top and bottom left and right */
-	margin: 0 10px; 
+	margin: 0 20px; 
 }
 h1{ font-family: 'Bangers', cursive;
     letter-spacing: 1px;
-	margin: 200px 0px 15px 0px;
+	margin-bottom: 15px;
 	font-size: 55px;
-	border: 1px solid orangered;
-	 
 } 
 
 }
